@@ -6,4 +6,4 @@ let numberOfProductInStock = undefined;
 
 console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
 
-//It will show as NaN as one value is undefined.
+//The result will be NaN.
